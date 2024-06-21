@@ -1,11 +1,11 @@
 {
-    "elastic": {
-      "cloudID": "paste your deployment name:cloud id details here",
-      "username": "elastic",
-      "password": "paste your password here",
-      "apiKey": "paste your API key here"
-    }
+  "elastic": {
+    "cloudID": "elasticsearchapp:dXMtY2VudHJhbDEuZ2NwLmNsb3VkLmVzLmlvOjQ0MyQxNTZmMjA4ZmZkOGU0ZTQ1YmQwNmVhYWVjZmQ4MjdlOSQzYjdlMzAyNWEwNjg0N2NlOTg3YzAzMTc2ZDE4Mjg3MQ==",
+    "username": "elastic",
+    "password": "U9CpOMzaWQbpYq0kiGvwrZhB",
+    "apiKey": "Y3d1QU9wQUJjTUYtR1JQZ2hpWU86UlRfU1Q0ek9UWm1qN0t3Q0RmSlRMZw=="
+  }
 }
-   
-   
-   
+ 
+ 
+ 
